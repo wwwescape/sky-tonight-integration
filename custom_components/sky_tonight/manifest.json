@@ -1,0 +1,11 @@
+{
+  "domain": "sky_tonight",
+  "name": "Sky Tonight",
+  "documentation": "https://www.github.com/wwwescape/sky-tonight",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "iot_class": "cloud_polling",
+  "version": "0.0.1",
+  "config_flow": true
+}

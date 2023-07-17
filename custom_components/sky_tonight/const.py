@@ -1,0 +1,2 @@
+DOMAIN = "sky_tonight"
+DEFAULT_UPDATE_INTERVAL = 15
